@@ -2,4 +2,4 @@
 
 ###Please enter your name below:###
 
-Heather Creighton
+Heather Creighton - Instructor
