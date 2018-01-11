@@ -2,5 +2,11 @@
 
 ###Please enter your name below:###
 
-Heather Creighton
+
+
 Donovan J. Wilder
+=======
+Heather Creighton - Instructor
+
+Gretchen Satcher
+
